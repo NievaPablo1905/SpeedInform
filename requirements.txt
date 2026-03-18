@@ -1,0 +1,8 @@
+PySide6
+pytesseract
+pdf2image
+pillow
+opencv-python
+python-docx
+docxtpl
+pywin32
