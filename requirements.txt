@@ -1,8 +1,9 @@
 PySide6
 pytesseract
 pdf2image
-pillow
+Pillow
 opencv-python
 python-docx
 docxtpl
 pywin32
+pdfminer.six
