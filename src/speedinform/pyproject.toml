@@ -1,0 +1,9 @@
+[tool]
+name = "SpeedInform"
+version = "0.1.0"
+
+[dependencies]
+Pillow = "*"
+opencv-python = "*"
+docxtpl = "*"
+pywin32 = "*"
